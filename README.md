@@ -51,7 +51,11 @@ The dataset is stored in `students.csv` and contains 15 student records. The col
 
 ## 7. Output
 
-The program prints the number of records and column names, then a table with each student's total, average, grade and result, followed by the analysis. The main results for this dataset are:
+The program prints the number of records and column names, then a table with each student's total, average, grade and result, followed by the analysis. The main results for this dataset are:                                
+ 
+![Output 1](output1.png.png)
+
+![Output 2](output2.png.png)
 
 - Highest average: Divya Menon with 95.25
 - Lowest average: Arjun Patel with 34.25
